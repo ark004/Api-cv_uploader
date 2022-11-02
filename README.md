@@ -3,6 +3,7 @@
 # installation
 
 pip install django
+
 pip install restframework
 
 # For windows
