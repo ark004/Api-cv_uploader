@@ -1,11 +1,11 @@
 # Api-cv_uploader
 
-#installation
+# installation
 
 pip install django
 pip install restframework
 
-#windows
+# For windows
 
 python manage.py runserver
 
